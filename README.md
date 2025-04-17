@@ -1,9 +1,6 @@
 # 🎬 Constructive Criticism or Hate?  
 ### An NLP-Based Movie Review Classification System Using DeBERTa
 
-![License](https://img.shields.io/badge/license-MIT-green)
-![Python](https://img.shields.io/badge/python-3.9-blue)
-![Model](https://img.shields.io/badge/model-DeBERTa-v3--base-orange)
 
 ## 📌 Abstract
 
@@ -70,7 +67,7 @@ The resulting model is integrated into a **Streamlit web interface** for real-ti
 
 bash
 # Clone this repository
-git clone https://github.com/yourusername/movie-review-criticism-classifier
+git clone (https://github.com/Rafael-ZP/Constructive_Criticism_or_Hate)
 
 # Create a virtual environment & activate
 python3 -m venv .venv
@@ -115,8 +112,8 @@ This project is licensed under the MIT License.
 ⸻
 
 🤝 Contributors
-	•	👤 [Your Name]
-	•	📧 [Your Email or GitHub]
+	•	👤 [Rafael Zieganpalg]
+	•	📧 [oldmankokikumar@gmail.com]
 
 ⸻
 
