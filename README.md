@@ -83,14 +83,6 @@ streamlit run app.py
 
 
 
-⸻
-
-📸 Output Screenshots
-
-🖼️ Add screenshots here of your Streamlit UI, confusion matrix, accuracy chart, etc.
-
-⸻
-
 🌍 Impact on Society
 	•	Promotes respectful digital conversations
 	•	Reduces workload for human content moderators
