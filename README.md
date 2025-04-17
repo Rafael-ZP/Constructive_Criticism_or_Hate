@@ -1,6 +1,8 @@
 # 🎬 Constructive Criticism or Hate?  
 ### An NLP-Based Movie Review Classification System Using DeBERTa
 
+![image](https://github.com/user-attachments/assets/d431c53b-38c1-41b7-96ba-8a955ea1253b)
+
 
 ## 📌 Abstract
 
